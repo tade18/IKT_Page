@@ -1,0 +1,58 @@
+*{box-sizing: border-box;
+font-family: sans-serif;}
+body{background-color: #D1D1D1;}
+/*Menu*/
+ul{list-style-type: none;
+margin: 0;
+padding: 0;
+width: 10%;
+float: left;
+margin-top: 7px;
+border-top: #85C7F2 3px solid;
+border-left: #4C4C4C 3px solid;}
+li a{display: block;
+background-color: #636363;
+color: #DBDBDB;
+padding: 8px 16px;
+text-decoration: none;}
+li a:hover{background-color: #85C7F2;
+color: #636363;}
+/*Nadpis*/
+.nadpis1{font-size: 45px;
+text-align: center;
+padding: 5px;}
+/*Obsah*/
+.obsah{border-left: #4C4C4C 3px solid;
+border-top: #85C7F2 3px solid;
+margin-top: 7px;
+margin-left: 10px;
+padding: 1em;
+float: left;
+background-color: white;
+width: 89%;}
+.pripony{list-style: square;
+padding-left: 1em;
+border: none;
+float: none;
+width:75%}
+/*header*/
+header{color: white;
+width: 100%;
+background-color: #636363;
+margin: 0;
+float: none;}
+/*kapitoly*/
+.matika{width: 540px;}
+.odkazvkapitole{color: #85C7F2;
+text-decoration: none;}
+/*footer*/
+.pata{display: block;
+text-decoration: none;
+color: #85C7F2;}
+/*další třídy*/
+.eukalyptus{background-color: white;
+color: white;
+border: black 1px solid;
+width: 20%;}
+.eukalyptus:hover{background-color: #4C4C4C;}
+.kapybara{color: #85C7F2;}
