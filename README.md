@@ -1,2 +1,3 @@
 # IKT_Page
--Návod k základům přemětu IKT
+Small school project, using only html and css.
+CZE
